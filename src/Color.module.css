@@ -1,0 +1,12 @@
+.content{
+    display: flex;
+    padding: 5%;
+}
+.code {
+    text-align: center;
+    padding: 5% ;
+    margin: auto;
+}
+h2{
+    margin: auto;
+}
